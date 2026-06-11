@@ -21,10 +21,3 @@ CREATE TABLE IF NOT EXISTS confeiteiro (
     especialidade       VARCHAR(80)     NOT NULL,
     PRIMARY KEY (id)
 );
-
-CREATE TABLE IF NOT EXISTS usuario (
-    id                  INT             AUTO_INCREMENT,
-    email               VARCHAR(60)     NOT NULL,
-    senha               VARCHAR(15)     NOT NULL,
-    PRIMARY KEY (id)
-);
