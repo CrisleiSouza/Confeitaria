@@ -90,7 +90,7 @@ para criar a estrutura necessária.
 1. Clone o repositório:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/CrisleiSouza/Confeitaria.git
 ```
 
 2. Execute o script `database.sql`.
